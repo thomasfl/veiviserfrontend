@@ -1,2 +1,0 @@
-# veiviserfrontend
-Created with CodeSandbox
