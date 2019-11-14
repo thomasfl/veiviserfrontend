@@ -1,0 +1,105 @@
+@import "../../utils/index";
+
+.undersideBanner__tekst {
+  padding-top: 0rem;
+  padding-bottom: 20px;
+  font-size: 3rem;
+  font-weight: bold;
+  padding-left: 1rem;
+  text-align: center;
+}
+
+@media all and (max-width: 730px) {
+  .undersideBanner__tekst {
+    font-size: 1.5rem;
+  }
+}
+
+.undersideBanner {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.banner {
+  background-color: #9bcfb0; // @navGronnLighten80;
+  border-bottom: 5px solid #37a161; // @navGronnLighten40;
+  color: @navMorkGra;
+  width: 100%;
+  margin: 0;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-bottom: 0;
+
+  &__underside {
+    padding-top: 20px;
+
+  }
+
+}
+
+.banner__forside {
+  padding-top: 4rem;
+}
+
+.banner__forside-wrapper {
+  display: flex;
+  padding-left: 3rem;
+}
+
+@media all and (max-width: 900px) {
+  .banner__forside-wrapper {
+    padding-left: 0.6rem;
+  }
+}
+
+.banner__tittel-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.banner__tittel-tekst {
+  adding-right: 1rem;
+  align-self: center;
+  width: 60%;
+}
+
+.banner__ingress {
+  margin-bottom: 2rem;
+  padding-right: 3rem;
+}
+
+.banner__forside-illustrasjon {
+  flex-shrink: 0;
+  height: 160px;
+  margin-bottom: 0px;
+}
+
+@media all and (max-width: 730px) {
+
+  .banner__tittel-tekst {
+    width: 100%;
+  }
+  .banner__tittel-container {
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+  }
+
+  .banner {
+    padding-top: 2rem;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .banner__forside-illustrasjon {
+    display: none;
+  }
+}
+
+@media all and (max-width: 900px) {
+  .typo-sidetittel {
+    font-size: 1.875rem;
+  }
+}

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="facecbfc-d0e8-48fa-87cd-323d74810c5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/artikler/dette-bor-du-vite/DetteBorDuViteBokmal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artikler/dette-bor-du-vite/DetteBorDuViteEnglish.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artikler/dette-bor-du-vite/DetteBorDuViteNynorsk.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artikler/dette-kan-du-soke-om/DetteKanDuSokeOmBokmal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artikler/dette-kan-du-soke-om/DetteKanDuSokeOmEnglish.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artikler/dette-kan-du-soke-om/DetteKanDuSokeOmNynorsk.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artikler/slik-sosialhjelp/komponenter/IkkeSokDigitalt.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artikler/slik-sosialhjelp/komponenter/SokDigitaltPanel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/illustrations/IllustrasjonInfoFarger.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/illustrations/IllustrasjonPersonBygningFarger.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/illustrations/LyspareFarger.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/artikler/andre-muligheter/AndreMuligheter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/artikler/andre-muligheter/AndreMuligheter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/artikler/andre-muligheter/JobblystPanel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/artikler/andre-muligheter/JobblystPanel.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/artikler/andre-muligheter/SokJobbPanel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/artikler/andre-muligheter/SokJobbPanel.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/artikler/andre-muligheter/andreMuligheter.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/artikler/andre-muligheter/komponenter/andreMuligheter.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/artikler/andre-muligheter/jobblyst_panel.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/artikler/andre-muligheter/komponenter/jobblyst_panel.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/artikler/andre-muligheter/sok_jobb_panel.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/artikler/andre-muligheter/komponenter/sok_jobb_panel.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/artikler/dette-bor-du-vite/DetteBorDuVite.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/artikler/dette-bor-du-vite/DetteBorDuVite.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/artikler/dette-kan-du-soke-om/DetteKanDuSokeOm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/artikler/dette-kan-du-soke-om/DetteKanDuSokeOm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/artikler/slik-sosialhjelp/SokSosialhjelp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/artikler/slik-sosialhjelp/SokSosialhjelp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/artikler/slik-sosialhjelp/sokSosialhjelp.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/artikler/slik-sosialhjelp/komponenter/sokSosialhjelp.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/illustrations/BygningPerson.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/illustrations/IllustrasjonBygningPerson.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/illustrations/InfoSirkel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/illustrations/IllustrasjonInfoSirkel.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sprakvelger/SprakVelger.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sprakvelger/SprakVelger.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Forside.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Forside.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/navigasjonsReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/navigasjonsReducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/navigasjonUtils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/navigasjonUtils.ts" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1TCF5FCPQHYQFUbJMOnR129p0ON" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/artikler/dette-bor-du-vite" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/artikler/slik-sosialhjelp/komponenter" />
+      <recent name="$PROJECT_DIR$/src/artikler/andre-muligheter/komponenter" />
+      <recent name="$PROJECT_DIR$/src/artikler/andre-muligheter" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/reducers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/artikler/dette-bor-du-vite" />
+      <recent name="$PROJECT_DIR$/src/components/sprakvelger" />
+      <recent name="$PROJECT_DIR$/src/artikler/dette-kan-du-soke-om" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="facecbfc-d0e8-48fa-87cd-323d74810c5c" name="Default Changelist" comment="" />
+      <created>1572955985780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572955985780</updated>
+      <workItem from="1572955989113" duration="5608000" />
+      <workItem from="1573032154584" duration="54481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
